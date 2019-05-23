@@ -49,7 +49,6 @@
   "files": [
     "lib",
     "src",
-    "index.js",
     "saga.js"
   ],
   "browserslist": [
